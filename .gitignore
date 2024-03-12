@@ -1,0 +1,17 @@
+# node_modules
+# dist
+# .DS_Store
+# package-lock.json
+
+
+# Ignore node_modules directory
+**/node_modules/
+
+# Ignore dist directory
+**/dist/
+
+# Ignore .DS_Store files
+**/.DS_Store
+
+# Ignore package-lock.json
+package-lock.json
